@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\PersonMove.js">
+    <Files>
+      <File FileName="Assets\LowLevelController.js" Line="10" Column="22" />
+      <File FileName="Assets\MotorSchema.js" Line="2" Column="1" />
+      <File FileName="Assets\PerceptualSchema.js" Line="8" Column="31" />
+      <File FileName="Assets\PersonMove.js" Line="54" Column="38" />
+      <File FileName="Assets\RobotAvoidance.js" Line="1" Column="1" />
+      <File FileName="Assets\Spawn.js" Line="24" Column="23" />
+      <File FileName="Assets\Testing.js" Line="1" Column="1" />
+      <File FileName="Assets\TheCamera.js" Line="1" Column="1" />
+      <File FileName="Assets\WallAvoidance.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
